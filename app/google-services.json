@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640481869985",
+    "project_id": "rolly-news",
+    "storage_bucket": "rolly-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640481869985:android:3a798719b04a792767b0e0",
+        "android_client_info": {
+          "package_name": "com.kyala.rollynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640481869985-qmlgk0hk4jtesjkeu1opioiboc2epmqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kyala.rollynews",
+            "certificate_hash": "8404b81572471408061d889be06b9ee598d6b382"
+          }
+        },
+        {
+          "client_id": "640481869985-72pnbd3qmenkhbnsf54clkflcup5oogd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC643mQh-dj3ke88cdJcNk8dxaWRj__7sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640481869985-72pnbd3qmenkhbnsf54clkflcup5oogd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
